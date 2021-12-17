@@ -4,6 +4,7 @@ const Categoria: FC<any> = () => {
   return (
     <div>
       <h1>Nova Categoria</h1>
+      <hr />
       <form>
         <table>
           <tbody>

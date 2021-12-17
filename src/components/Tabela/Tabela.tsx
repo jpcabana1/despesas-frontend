@@ -4,6 +4,7 @@ const Tabela: FC<any> = () => {
   return (
     <div>
       <h1>Despesas</h1>
+      <hr />
       <table>
         <thead>
           <th>Id</th>

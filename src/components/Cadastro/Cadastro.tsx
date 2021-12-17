@@ -4,6 +4,7 @@ const Cadastro: FC<any> = () => {
   return (
     <div>
       <h1>Cadastro</h1>
+      <hr />
       <form>
         <table>
           <tbody>

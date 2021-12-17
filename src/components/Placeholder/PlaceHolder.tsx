@@ -8,26 +8,28 @@ const PlaceHolder: FC<any> = () => {
   return (
     <div>
       <table>
-        <tr>
-          <td>
-            <Cadastro />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <Tabela />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <Categoria />
-          </td>
-        </tr>
-        <tr>
-          <td>
-            <Total />
-          </td>
-        </tr>
+        <tbody>
+          <tr>
+            <td>
+              <Cadastro />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <Tabela />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <Categoria />
+            </td>
+          </tr>
+          <tr>
+            <td>
+              <Total />
+            </td>
+          </tr>
+        </tbody>
       </table>
     </div>
   );

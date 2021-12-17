@@ -4,6 +4,7 @@ const Total: FC<any> = () => {
   return (
     <div>
       <h1>Totais</h1>
+      <hr />
       <table>
         <thead>
           <th>Categoria</th>
